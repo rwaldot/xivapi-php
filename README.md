@@ -6,7 +6,7 @@ This provides a very simple client to interact with the XIVAPI and obtain dynami
 
 This library requires PHP 7.2+
 
-Install vis composer: https://packagist.org/packages/xivapi/xivapi-php
+Install via composer: https://packagist.org/packages/xivapi/xivapi-php
 
 - `composer require xivapi/xivapi-php`
 
